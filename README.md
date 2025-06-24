@@ -7,7 +7,8 @@ An interactive web application that lets users explore planets of our solar syst
 - Select planets from a list and view their images  
 - Stylish, dark-themed UI with glowing button effects  
 - Space travel likelihood test with dynamic feedback  
-- Responsive and accessible design  
+- Responsive and accessible design
+- Generative button Black hole and Space quotes
 
 ## Technologies Used
 - HTML, CSS (with gradients and shadows)  
